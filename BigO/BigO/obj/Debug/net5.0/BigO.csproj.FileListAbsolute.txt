@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.exe
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.deps.json
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.dll
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\ref\BigO.dll
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\bin\Debug\net5.0\BigO.pdb
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.dll
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\ref\BigO.dll
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.pdb
+C:\Users\Taras Sliusar\source\repos\BigO\BigO\obj\Debug\net5.0\BigO.genruntimeconfig.cache
